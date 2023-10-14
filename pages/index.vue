@@ -1,9 +1,7 @@
 <template>
-  <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="6">
-      <carousel-component></carousel-component>
-    </v-col>
-  </v-row>
+  <div>
+    <carousel-component></carousel-component>
+  </div>
 </template>
 
 <script>
