@@ -1,6 +1,5 @@
 @import 'base';
+@import 'homePage';
 @import 'carousel';
-
-.heading {
-  color: orange;
-}
+@import 'homeCategories';
+@import 'slider.scss';

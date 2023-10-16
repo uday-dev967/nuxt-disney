@@ -1,0 +1,213 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "uday kanda",
+      "email": "uday123@gmail.com",
+      "password": "1235678"
+    }
+  ],
+  "vidoe_categories": [
+    {
+      "id": 1,
+      "name": "Action Movies",
+      "cat": "actionmovies",
+      "thumbnails": [
+        {
+          "id": 1,
+          "thumnail": "https://image.tmdb.org/t/p/w500//n3pJwYuPnkw7JX7tOMbH0GRfBPn.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video1"
+        },
+        {
+          "id": 2,
+          "thumnail": "https://image.tmdb.org/t/p/w500//puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video2"
+        },
+        {
+          "id": 3,
+          "thumnail": "https://image.tmdb.org/t/p/w500//me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video3"
+        },
+        {
+          "id": 4,
+          "thumnail": "https://image.tmdb.org/t/p/w500//d455zyZOL6OUIstwMBho534uUSG.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video4"
+        },
+        {
+          "id": 5,
+          "thumnail": "https://image.tmdb.org/t/p/w500//lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video5"
+        },
+        {
+          "id": 6,
+          "thumnail": "https://image.tmdb.org/t/p/w500//aRVQ1EgTx3vbhK6qls2O834bPQc.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video6"
+        },
+        {
+          "id": 7,
+          "thumnail": "https://image.tmdb.org/t/p/w500//jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video7"
+        },
+        {
+          "id": 8,
+          "thumnail": "https://image.tmdb.org/t/p/w500//mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video8"
+        },
+        {
+          "id": 9,
+          "thumnail": "https://image.tmdb.org/t/p/w500//9YAVIwBcBrLXeukg2dgMGfYB1uu.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video9"
+        },
+        {
+          "id": 10,
+          "thumnail": "https://image.tmdb.org/t/p/w500//86z1Yrwj7yN1xehSa0gIwHnR7xl.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video10"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Disney Movies",
+      "cat": "disneymovies",
+      "thumbnails": [
+        {
+          "id": 1,
+          "thumnail": "https://image.tmdb.org/t/p/w500//n3pJwYuPnkw7JX7tOMbH0GRfBPn.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video1"
+        },
+        {
+          "id": 2,
+          "thumnail": "https://image.tmdb.org/t/p/w500//puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video2"
+        },
+        {
+          "id": 3,
+          "thumnail": "https://image.tmdb.org/t/p/w500//me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video3"
+        },
+        {
+          "id": 4,
+          "thumnail": "https://image.tmdb.org/t/p/w500//d455zyZOL6OUIstwMBho534uUSG.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video4"
+        },
+        {
+          "id": 5,
+          "thumnail": "https://image.tmdb.org/t/p/w500//lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video5"
+        },
+        {
+          "id": 6,
+          "thumnail": "https://image.tmdb.org/t/p/w500//aRVQ1EgTx3vbhK6qls2O834bPQc.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video6"
+        },
+        {
+          "id": 7,
+          "thumnail": "https://image.tmdb.org/t/p/w500//jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video7"
+        },
+        {
+          "id": 8,
+          "thumnail": "https://image.tmdb.org/t/p/w500//mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video8"
+        },
+        {
+          "id": 9,
+          "thumnail": "https://image.tmdb.org/t/p/w500//9YAVIwBcBrLXeukg2dgMGfYB1uu.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video9"
+        },
+        {
+          "id": 10,
+          "thumnail": "https://image.tmdb.org/t/p/w500//86z1Yrwj7yN1xehSa0gIwHnR7xl.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video10"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Horror Movies",
+      "cat": "horrorrmovies",
+      "thumbnails": [
+        {
+          "id": 1,
+          "thumnail": "https://image.tmdb.org/t/p/w500//n3pJwYuPnkw7JX7tOMbH0GRfBPn.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video1"
+        },
+        {
+          "id": 2,
+          "thumnail": "https://image.tmdb.org/t/p/w500//puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video2"
+        },
+        {
+          "id": 3,
+          "thumnail": "https://image.tmdb.org/t/p/w500//me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video3"
+        },
+        {
+          "id": 4,
+          "thumnail": "https://image.tmdb.org/t/p/w500//d455zyZOL6OUIstwMBho534uUSG.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video4"
+        },
+        {
+          "id": 5,
+          "thumnail": "https://image.tmdb.org/t/p/w500//lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video5"
+        },
+        {
+          "id": 6,
+          "thumnail": "https://image.tmdb.org/t/p/w500//aRVQ1EgTx3vbhK6qls2O834bPQc.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video6"
+        },
+        {
+          "id": 7,
+          "thumnail": "https://image.tmdb.org/t/p/w500//jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video7"
+        },
+        {
+          "id": 8,
+          "thumnail": "https://image.tmdb.org/t/p/w500//mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video8"
+        },
+        {
+          "id": 9,
+          "thumnail": "https://image.tmdb.org/t/p/w500//9YAVIwBcBrLXeukg2dgMGfYB1uu.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video9"
+        },
+        {
+          "id": 10,
+          "thumnail": "https://image.tmdb.org/t/p/w500//86z1Yrwj7yN1xehSa0gIwHnR7xl.jpg",
+          "description": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+          "title": "Video10"
+        }
+      ]
+    }
+  ]
+}
