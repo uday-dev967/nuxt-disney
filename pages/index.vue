@@ -19,12 +19,13 @@ import Carousel from '~/components/Carousel.vue'
 import Categories from '~/components/Categories.vue'
 import Slider from '~/components/Slider.vue'
 export default {
-  name: 'IndexPage',
+  name: 'Home',
   components: {
     'carousel-component': Carousel,
     'categories-component': Categories,
     'slider-component': Slider,
   },
+
   computed: {
     ...mapGetters('video', ['getVideosByCategory']),
   },

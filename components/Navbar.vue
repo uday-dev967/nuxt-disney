@@ -8,7 +8,7 @@
     <v-tabs class="ml-5">
       <v-tab v-for="(tabItem, index) in tabItems" :key="index" :to="tabItem.to">
         <v-icon>{{ tabItem.icon }}</v-icon>
-        <v-title class="ml-2">{{ tabItem.title }}</v-title>
+        <v-card-title class="ml-2">{{ tabItem.title }}</v-card-title>
       </v-tab>
     </v-tabs>
   </v-app-bar>

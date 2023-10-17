@@ -2,9 +2,11 @@ import VideoService from '@/services/videoService.js'
 
 export const namespaced = true
 
-export const state = {
-  vidoes: [],
-  video: {},
+export const state = () => {
+  return {
+    vidoes: [],
+    video: {},
+  }
 }
 
 export const mutations = {

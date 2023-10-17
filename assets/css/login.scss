@@ -1,0 +1,26 @@
+.login-container {
+  background-size: cover;
+  background-position: center;
+  background-image: linear-gradient(
+      to right,
+      rgba(12, 6, 41, 0.7),
+      rgba(6, 2, 35, 0.7)
+    ),
+    url('../disney-plus-what-if-poster-nc0w61aqsodv7yvk.jpg');
+  height: 94.25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .form-container {
+    width: 40rem;
+    color: #fff;
+    .input-fields {
+      height: 5rem;
+      margin-top: 1rem;
+      .v-label {
+        font-size: 1.5rem;
+        margin-top: -0.5rem;
+      }
+    }
+  }
+}

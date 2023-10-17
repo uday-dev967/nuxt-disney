@@ -2,13 +2,15 @@ import LoginService from '@/services/loginService.js'
 
 export const namespaced = true
 
-export const state = {
-  user: {},
-  isLoggedIn: false,
-  error: {
-    isError: false,
-    errMsg: '',
-  },
+export const state = () => {
+  return {
+    user: {},
+    isLoggedIn: false,
+    error: {
+      isError: false,
+      errMsg: '',
+    },
+  }
 }
 
 export const mutations = {
@@ -23,8 +25,8 @@ export const mutations = {
   },
 }
 export const actions = {
-  fetchUsers({ commit }, creds) {
-    return LoginService.getUsers()
+  async fetchUsers({ commit }, creds) {
+    return await LoginService.getUsers()
       .then((response) => {
         const users = response.data
         const user = users.find(
